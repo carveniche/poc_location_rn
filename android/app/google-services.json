@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "696357077714",
+    "project_id": "poc-begalileo",
+    "storage_bucket": "poc-begalileo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696357077714:android:187b3cd0b629e80255e30b",
+        "android_client_info": {
+          "package_name": "com.poc_test_rn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696357077714-asssjatutpk49654shh2c6l4582g09oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poc_test_rn",
+            "certificate_hash": "693d4570b475aa753973d420e0d20fa7ddbe61a7"
+          }
+        },
+        {
+          "client_id": "696357077714-igi7lv3vp8rdhar2hlbg9j88sbm18j69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvk5q1iV8C4hot2vgtiWiTIuJz35pI2pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696357077714-igi7lv3vp8rdhar2hlbg9j88sbm18j69.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696357077714-99ie87ebmc3pt2cbse65q2gq1g6f79d6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.carveniche.poc-test-rn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

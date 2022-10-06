@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>696357077714-rinof24qi6gd94dmb9g6qq3u07tm0dm3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.696357077714-rinof24qi6gd94dmb9g6qq3u07tm0dm3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>696357077714-asssjatutpk49654shh2c6l4582g09oc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDHzioK1byS094cWlMIIt50o6QdwuwYZFQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>696357077714</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.carveniche.poc.test.2022</string>
+	<key>PROJECT_ID</key>
+	<string>poc-begalileo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>poc-begalileo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:696357077714:ios:298cd6efbf7de2c555e30b</string>
+</dict>
+</plist>
